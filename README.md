@@ -1,3 +1,3 @@
 # pritampanja
-this is my git repositary
+This is my Git Repository,
 By-Pritam
