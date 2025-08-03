@@ -1,4 +1,5 @@
-# pritampanja
+c# pritampanja
 This is my Git Repository,
 <br>
-By-Pritam
+By-Pritam panja
+
